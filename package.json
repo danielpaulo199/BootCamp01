@@ -1,0 +1,11 @@
+{
+  "name":"bootcamp01",
+  "version": "1.0.0",
+  "description": "Primeiro degue",
+  "main": "index.js",
+  "repository": "https://github.com/danielpaulo199/BootCamp01.git",
+  "author": "Daniel",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
